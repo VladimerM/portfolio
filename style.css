@@ -373,13 +373,13 @@ body {
 .portfolio__work-img img {
   border-radius: 10px;
   max-height: 200px;
-  max-width: 300px;
+  max-width: 400px;
   -webkit-transition: 0.3s;
   transition: 0.3s;
 }
 
 .portfolio__work:hover .portfolio__work-img img {
   opacity: 0.5;
-  height: 210px;
+  max-height: 210px;
 }
 /*# sourceMappingURL=style.css.map */
